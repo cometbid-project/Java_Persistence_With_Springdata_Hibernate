@@ -3,7 +3,7 @@
 -->
 ### As a reminder about jpa best practices.
 
-#### Always set the Hibernate Timezone to UTC in the persistence.xml*
+#### Always set the Hibernate Timezone to UTC in the persistence.xml
 
 `<property name="hibernate.jdbc.time_zone" value="UTC"/>`
 
