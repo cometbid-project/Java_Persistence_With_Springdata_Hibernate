@@ -1,0 +1,6 @@
+com/example/javapersistence/ch02/HelloWorldJPAToHibernateTest.class
+com/example/javapersistence/ch02/hibernate/HelloWorldHibernateTest.class
+com/example/javapersistence/ch02/HelloWorldJPATest.class
+com/example/javapersistence/ch02/hibernate/HelloWorldHibernateToJPATest.class
+com/example/javapersistence/ch02/configuration/SpringDataConfiguration.class
+com/example/javapersistence/ch02/springdata/jpa/HelloWorldSpringDataJPATest.class
